@@ -1,16 +1,10 @@
-export const App = () => {
+import MyBooks from 'modules/MyBooks/MyBooks';
+
+function App() {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
+    <div className="App">
+      <MyBooks />
     </div>
   );
-};
+}
+export default App;
