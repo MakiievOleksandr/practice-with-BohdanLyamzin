@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/practice-with-BohdanLyamzin/static/css/main.7acaea2f.css",
-    "main.js": "/practice-with-BohdanLyamzin/static/js/main.07d3183d.js",
+    "main.css": "/practice-with-BohdanLyamzin/static/css/main.376f84f4.css",
+    "main.js": "/practice-with-BohdanLyamzin/static/js/main.4fc2c305.js",
     "index.html": "/practice-with-BohdanLyamzin/index.html",
-    "main.7acaea2f.css.map": "/practice-with-BohdanLyamzin/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/practice-with-BohdanLyamzin/static/js/main.07d3183d.js.map"
+    "main.376f84f4.css.map": "/practice-with-BohdanLyamzin/static/css/main.376f84f4.css.map",
+    "main.4fc2c305.js.map": "/practice-with-BohdanLyamzin/static/js/main.4fc2c305.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.376f84f4.css",
+    "static/js/main.4fc2c305.js"
   ]
 }
